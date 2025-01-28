@@ -1,1 +1,2 @@
-# HeroVired_Capstone_Main
+# CapstoneProject - JobsApp
+Setup complete infrastructure for deploying MERN application using Terraform..
